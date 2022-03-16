@@ -18,7 +18,16 @@ It's been fantastic. My computer is fast and reliable in every respect, and I've
 
 Of all the social media platforms I work on, Reddit is about the only one I use personally. I spend a lot of time on there, and luckily I was already aware of the **[Linux Upskill Challenge]**(https://www.reddit.com/r/linuxupskillchallenge/). It's a monthly program that challenges people to go from zero Linux skills to becoming a fledgling sysadmin in 30 days.
 
-There are the obvious, superficial benefits. Gaining a better understanding of Linux, and how to manage and maintain it from the command line. But the program runs primarily from GitHub, and even includes the options for participants to submit corrections and improvements through the repo, so you're learning about deployment and collaborative content creation at the same time. The subreddit is wonderfully active, and a whole community has grown up around learning, asking and, later, helping others to improve. It's incredibly supportive and progressive, especially for Reddit. People remain members of that community long after completing the challenge, so this aspect of it is incredibly inspiring to me as a community manager, as much as a Linux convert.
+There are the obvious, superficial benefits. Gaining a better understanding of Linux, and how to manage and maintain it from the command line. But the program runs primarily from GitHub, and even includes the options for participants to submit corrections and improvements through the repo, so you're learning about deployment and collaborative content creation at the same time.
+<Image
+  src="/images/Linux-Upskill-01.png"
+  alt="Linux Upskill"
+  width={1125}
+  height={auto}
+  priority
+  className="next-image"
+/>
+The subreddit is wonderfully active, and a whole community has grown up around learning, asking and, later, helping others to improve. It's incredibly supportive and progressive, especially for Reddit. People remain members of that community long after completing the challenge, so this aspect of it is incredibly inspiring to me as a community manager, as much as a Linux convert.
 
 It's also incredibly well written and beautifully structured. The daily delivery schedule is impressively intuitive, and helps to form a very healthy habit that improves retention of the lessons naturally. It's worth investigation for any business that wants to teach newcomers how to gain new skills, update old ones or bolster existing interest in any technical subject.
 
