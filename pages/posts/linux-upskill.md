@@ -1,9 +1,9 @@
 ---
-title: Markdown Examples
-date: 2021/3/19
-description: View examples of all possible Markdown options.
-tag: web development
-author: You
+title: Technical Guideline
+date: 2022/3/16
+description: The Linux upskill challenge has proven to be an incredibly inspiring experience, just as much as a useful how-to guide.
+tag: technical development
+author: Spanner
 ---
 
 # Markdown Examples
