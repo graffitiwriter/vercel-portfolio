@@ -14,7 +14,9 @@ Which technical article, guide or lightning talk left the biggest positive impre
 ## The Linux Upskill Challenge
 With Windows dragging my computer to a halt and constantly hamstringing itself with lengthy updates, I bought a second SSD and installed Ubuntu on my desktop PC. I've run Linux a lot in the past, primarily to give old hardware a bit more life. But this was the first time I'd used it on my primary (and work) machine.
 
-Not to drop too many spoilers, but it's been fantastic. My computer is fast in every respect, and I've not looked back once.
+It's been fantastic. My computer is fast and reliable in every respect, and I've not looked back once. But Linux takes a bit more effort when you want to customise things, and to fix them when customisations don't go as planned (which they never do, of course!).
+
+Of all the social media platforms I work on, Reddit is about the only one I use personally. I spend a lot of time on there, and luckily I was already aware of the Linux Upskill Challenge.
 
 ### h3 Heading
 
