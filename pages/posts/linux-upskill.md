@@ -20,8 +20,10 @@ Of all the social media platforms I work on, Reddit is about the only one I use 
 
 There are the obvious, superficial benefits. Gaining a better understanding of Linux, and how to manage and maintain it from the command line. But the program runs primarily from [GitHub](https://github.com/livialima/linuxupskillchallenge), and even includes the options for participants to submit corrections and improvements through the repo, so you're learning about deployment and collaborative content creation at the same time.
 
+import Image from 'next/image'
+
 <Image
-  src="https://github.com/graffitiwriter/vercel-portfolio/blob/main/public/images/Linux-Upskill-01.png"
+  src="/images/Linux-Upskill-01.png"
   alt="Linux Upskill"
   width={1125}
   height={750}
