@@ -10,6 +10,8 @@ author: Spanner
 
 ## Which technical article, guide or lightning talk left the biggest positive impression on you?
 
+---
+
 ## The Linux Upskill Challenge
 With Windows dragging my computer to a halt and constantly hamstringing itself with lengthy updates, I bought a second SSD and installed Ubuntu on my desktop PC. I've run Linux a lot in the past, primarily to give old hardware a bit more life. But this was the first time I'd used it on my primary (and work) machine.
 
