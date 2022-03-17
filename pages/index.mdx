@@ -29,7 +29,8 @@ https://vercel-portfolio-od7u7c9wo-graffitiwriter1.vercel.app/hello-vercel)  -->
 
 
 ## GitHub Redirect Question
-**Q:** "How do I do a redirect from /hello-vercel to https://vercel.com?"
+***Q:** "How do I do a redirect from /hello-vercel to https://vercel.com?"*
+
 **A:** The good news is that Vercel gives you several options depending on how you've build your app. There's an excellent support article that covrs your various options here: https://vercel.com/support/articles/does-vercel-support-permanent-redirects
   
   But let's give you the short version that I find to be quick and easy, to get you moving.
@@ -53,14 +54,21 @@ Always good to hear other people's methods too, so please share any other soluti
 
 
 ## Using a Custom Doman in a Project
-**Q:** "I have a custom domain which I purchased at GoDaddy and I want to use it on my project"
-**A:** The first task is making sure your domain is unlocked on your hosting. This will allow you to point it somewhere else, like your Vercel app. It varies from host to host, but GoDaddy is actually featured as an example on our [domains guide, here](https://vercel.com/guides/transferring-domains-to-vercel).
+***Q:** "I have a custom domain which I purchased at GoDaddy and I want to use it on my project"*
 
-Then you have a couple of options. You can edit the nameservers in your GoDaddy hosting account to point at your Vercel app, or you could transfer the domain to Vercel. 
+**A:** You can add a custom domain to any of your Vercel projects, which is handy as it means you can mangage multiple domains and their apps all from one account. On your dashboard, open up the project you want to add the GoDaddy domain to. Click the **"Settings"** tab, followed by **"Domains"** in the left hand menu lower down.
 
-It's worth noting that you can [transfer domains over to Vercel](https://vercel.com/guides/transferring-domains-to-vercel), so everything's together in one place. Just make sure you're more than 60 days from expiration, as some hosts won't let you transfer a domain that close to renewal dates.
-  
-  
+THere you'll see an option to add your custom domain. You can do that now, and don't worry about the error you'll see. That's just because the domain isn't pointing at Vercel's nameservers yet. Before you head back to GoDaddy, click the **"Nameservers"** tab and take note of the entry in the **"Intended Nameservers"** box.
+
+The first task in your GoDaddy hosting account is making sure your domain is unlocked. This will allow you to point it somewhere else, like your Vercel project. Now you need to swap the current nameservers GoDaddy is using for the Vercel ones you took note of previously. It might ask you to confirm by email, to make sure you're the account owner. 
+
+Once that's done, the domain is now being pointed at your Vercell project! There's a more detailed guide on custom domains [in the docs](https://vercel.com/docs/concepts/projects/custom-domains), or take a look at Kirsten Swansons's excellent walkthrough [here](https://kswanie21.medium.com/how-to-set-up-godaddy-domain-with-vercel-f42430ed4f6).
+
+It can take a day or two for nameserver changes to propogate through the Interner, so don't worry if it doesn't instantly work.
+
+Keep us posted on how it all goes! 
+
+
 
 This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio.
 
