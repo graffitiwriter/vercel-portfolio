@@ -6,7 +6,7 @@ tag: technical development
 author: Spanner
 ---
 
-# Q1) Technical Guideline
+# 1) Technical Guideline
 
 ## Brief:
 Which technical article, guide or lightning talk left the biggest positive impression on you?
