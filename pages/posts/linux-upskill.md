@@ -8,8 +8,7 @@ author: Spanner
 
 # 1) Technical Guideline
 
-## Brief:
-Which technical article, guide or lightning talk left the biggest positive impression on you?
+## Which technical article, guide or lightning talk left the biggest positive impression on you?
 
 ## The Linux Upskill Challenge
 With Windows dragging my computer to a halt and constantly hamstringing itself with lengthy updates, I bought a second SSD and installed Ubuntu on my desktop PC. I've run Linux a lot in the past, primarily to give old hardware a bit more life. But this was the first time I'd used it on my primary (and work) machine.
@@ -36,91 +35,3 @@ The [subreddit](https://www.reddit.com/r/linuxupskillchallenge/) is wonderfully 
 It's also incredibly well written and beautifully structured. The daily delivery schedule is impressively intuitive, and helps to form a very healthy habit that improves retention of the lessons naturally. It's worth investigation for any business that wants to teach newcomers how to gain new skills, update old ones or bolster existing interest in any technical subject.
 
 All in all it's enjoyable, entertaining, educational and inspiring both for participants, and anyone interested in seeing how content, community and skill development can be successfully combined.
-
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
-
-## Emphasis
-
-**This is bold text**
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Develop. Preview. Ship. – Vercel
-
-## Lists
-
-Unordered
-
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Integer molestie lorem at massa
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-## Code
-
-Inline `code`
-
-```
-export default function Nextra({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="/feed.xml"
-        />
-        <link
-          rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
-          as="font"
-          type="font/woff2"
-          crossOrigin="anonymous"
-        />
-      </Head>
-      <Component {...pageProps} />
-    </>
-  )
-}
-```
-
-## Tables
-
-| **Option** | **Description**                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-
-## Links
-
-- [Next.js](https://nextjs.org)
-- [Nextra](https://nextra.vercel.app/)
-- [Vercel](http://vercel.com)
-
-### Footnotes
-
-- Footnote [^1].
-- Footnote [^2].
-
-[^1]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^2]: Footnote text.
