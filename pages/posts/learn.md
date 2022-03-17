@@ -6,7 +6,7 @@ tag: personal development
 author: Spanner
 ---
 
-# Q2) Learning at Work
+# 2) Learning at Work
 
 ## Brief:
 What do you want to learn, or do more of, at work?
