@@ -23,7 +23,7 @@
     "semi": false
   },
   "redirects": { 
-    "source": "/posts/hello-vercel",
+    "source": "/hello-vercel",
     "destination": "https://vercel.com", 
     "permanent": false
   }
