@@ -6,7 +6,7 @@ tag: professional
 author: Spanner
 ---
 
-# Q6) What Does Community Mean to You?
+# 6) What Does Community Mean to You?
 
 I can hear my current co-workers groan when I read this question, as I'm constantly reminding people about the purpose and reasons for having a community! I take the concept quite literally. By that, I mean to say how important I believe it is to simply *understand the word*.
 
