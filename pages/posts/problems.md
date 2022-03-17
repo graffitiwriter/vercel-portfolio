@@ -1,7 +1,7 @@
 ---
-title: ow would you help customers to overcome common problems, short-term and long-term?
+title: How would you help customers overcome problems?
 date: 2022/3/16
-description: ow would you help customers to overcome common problems, short-term and long-term?
+description: How would you help customers to overcome common problems, short-term and long-term?
 tag: professional
 author: Spanner
 ---
