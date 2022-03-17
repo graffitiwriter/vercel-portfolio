@@ -28,12 +28,3 @@ I'm very technically minded, and very good with hardware, having begun life as a
 I mentioned podcasting and video content creation above. I'm finding myself increasingly interested in developing creative skills around that kind of multimedia content in a much more professional way. I'm an enthusiastic amateur right now, having taught myself about podcast production ([ah, yes. I have a Star Trek podcast of my own!](https://anchor.fm/startrekhi) and I'm pretty good when it comes to creating video material such as interviews, case studies, ads and marketing campaigns.
 
 But I'm very much aware of how little I know, despite how much I've experimented in these areas. So professional development of multimedia production skills would be very interesting and, I genuinely believe, valuable to my work.
-
-
-What does community mean to you?
-I can make my co-workers groan when they hear this question! I take community quite literally. By that, I mean to say how important I believe it is to really understand the word.
-
-It literally means "joint ownership", and that's a drum I bang at every opportunity, I don't mind admitting! Too often businesses don't actually want to share, or effectively give away, ownership of a community to its members. What they're really looking for is a captive (if happy) audience. One of the reasons I gravitate toward open-source is because businesses that have adopted it share typically share that same philosophy of joint ownership. The users are genuinely considered to be as integral as the developers.
-
-If it's a one0directional broadcast system that's used to send out thinly veiled adverts, I don't think I'd be the best person for that job. If it's about creating a place of belonging, where members really feel that they have a real influence over the direction of the business and its products, and of "finding the others"
-as Doug Rushkoff likes to say (bringing new people into the community and giving them a home there), that's definitely my bag.
